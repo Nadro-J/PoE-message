@@ -1,0 +1,8 @@
+{
+  "rpc": {
+      "rpc_host": "127.0.0.1",
+      "rpc_port": "8331",
+      "rpc_user": "windows10",
+      "rpc_pass": "windows10"
+  }
+}
