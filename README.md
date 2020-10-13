@@ -4,7 +4,7 @@
 > https://www.python.org/ftp/python/3.8.5/python-3.8.5.exe
 
 #### Setting up PoE-message
-1. Modify config.json to your environment
+1. Modify config.json to match your wallet configuration in bitgreen.conf
 
 inside broadcast_OP_RETURN.py modify the following lines
 ```python
